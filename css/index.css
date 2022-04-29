@@ -7,3 +7,9 @@ li{
 p{
     color: brown;
 }
+img{
+    
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
